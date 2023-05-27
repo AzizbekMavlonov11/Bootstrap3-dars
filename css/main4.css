@@ -1,0 +1,18 @@
+.table{
+    box-shadow: 0 0 15px grey !important;
+}
+.bag{
+    width: 1110px;
+    height: 100px;
+    background-color: #062c33;
+    color: white;
+    margin-bottom: -50px;
+    box-shadow: 0 0 15px grey;
+}
+.bag2{
+    margin-left: 700px;
+    margin-top: -70px;
+}
+.bag3{
+    margin-top: 10px;
+}
